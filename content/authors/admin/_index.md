@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dr Alan Davies
+name: Dr Alan Davies MBCS
 
 # Username (this should match the folder name)
 authors:
