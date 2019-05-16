@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Dr Alan Davies
 
 # Username (this should match the folder name)
 authors:
