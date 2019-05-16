@@ -32,9 +32,6 @@ education:
     institution: University of Manchester
   - course: BSc (HONS) RN in Nursing Science
     institution: Birmingham City University 
-    
-professional membership:
-  - MBCS
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,7 +41,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: researchgate
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
