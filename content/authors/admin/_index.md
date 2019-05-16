@@ -45,10 +45,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:alan.davies-2@manchester.ac.uk".
 - icon: researchgate
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://researchgate.net/profile/Alan_Davies9
 - icon: google-scholar
   icon_pack: ai
-  link: https://researchgate.net/profile/Alan_Davies9
+  link: https://scholar.google.co.uk/citations?user=i_KKj1AAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/scooter6386/
