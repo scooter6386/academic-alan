@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lecturer Health Data Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Manchester
+  url: "https://www.research.manchester.ac.uk/portal/alan.davies-2.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data science
+- Mobile/digital health interventions 
+- Personal health tracking
+- Cardiology (ECGs)
 
 education:
   courses:
