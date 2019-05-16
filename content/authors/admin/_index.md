@@ -25,6 +25,8 @@ interests:
 - Mobile/digital health interventions 
 - Personal health tracking
 - Cardiology (ECGs)
+- Eye-tracking
+- HCI
 
 education:
   courses:
@@ -66,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I have a background in Computer Science and Nursing and have worked previously in interventional cardiology. Having authored several medical text books on electrocardiogram (ECG) interpretation I completed my PhD in Computer Science using eye-tracking and computational techniques to examine how practitioners interpret ECGs. Since then I have worked at the University of Manchester as a Data Scientist/Research Software Engineer before becoming a lecturer of Health Data Science in the faculty of Biology medicine and Health. My research interests include the application of technology to healthcare and health related mobile application interventions.
+I have a background in Computer Science and Nursing and have worked previously in interventional cardiology. Having authored several medical text books on electrocardiogram (ECG) interpretation. I completed my PhD in Computer Science using eye-tracking and computational techniques to examine how practitioners interpret ECGs. Since then I have worked at the University of Manchester as a Data Scientist/Research Software Engineer before becoming a lecturer of Health Data Science in the faculty of Biology medicine and Health. My research interests include the application of technology to healthcare and health related mobile application interventions.
