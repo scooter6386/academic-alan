@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dr Alan Davies MBCS
+name: Dr Alan Davies
 
 # Username (this should match the folder name)
 authors:
@@ -32,6 +32,9 @@ education:
     institution: University of Manchester
   - course: BSc (HONS) RN in Nursing Science
     institution: Birmingham City University 
+    
+professional membership:
+  - MBCS
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
