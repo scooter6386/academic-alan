@@ -40,11 +40,23 @@ subtitle = ""
   icon = "lightbulb"
   icon_pack = "fas"
   name = "Research"
-  description = "Experimental design, computational methods, qualitative/quantitative analysis, visualisations, health informatatics"
+  description = "Experimental design, computational methods, qualitative/quantitative analysis, visualisations, health informatatics, UX/HCI"
   
-  [[feature]]
-  icon = "camera-retro"
+[[feature]]
+  icon = "mobile-alt"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "App development"
+  description = "Hybrid (Cordova, Ionic), Native (Objective-C, Java)"
+  
+[[feature]]
+  icon = "globe-americas"
+  icon_pack = "fas"
+  name = "Web development"
+  description = "Front end (HTML/CSS/JavaScript/Bootstap), Back end (Python Flask, Django)"
+  
+[[feature]]
+  icon = "breifcase-medical"
+  icon_pack = "fas"
+  name = "Medical"
+  description = "Nursing science, ECG interpretation, interoperability, cardiac angiography, author of 2 medical textbooks"
 +++
