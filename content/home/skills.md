@@ -37,10 +37,10 @@ subtitle = ""
   description = "C/C++, Java, COBOL, VB, LiveCode, Agile, Git, co-design, prototyping, requirements gathering"
 
 [[feature]]
-  icon = "camera-retro"
+  icon = "lightbulb"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Research"
+  description = "Experimental design, computational methods, qualitative/quantitative analysis, visualisations, health informatatics"
   
   [[feature]]
   icon = "camera-retro"
