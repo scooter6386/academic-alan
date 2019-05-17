@@ -40,7 +40,7 @@ subtitle = ""
   icon = "lightbulb"
   icon_pack = "fas"
   name = "Research"
-  description = "Experimental design, computational methods, qualitative/quantitative analysis, visualisations, health informatatics, UX/HCI"
+  description = "Experimental design, computational methods, qualitative/quantitative analysis, visualisations, health informatatics, UX/HCI, eye-tracking"
   
 [[feature]]
   icon = "mobile-alt"
