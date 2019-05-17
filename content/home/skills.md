@@ -27,13 +27,14 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics/data science/machine learning"
+  name = "Data Science"
+  description = "Statistics, Machine learning, Databases"
   
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Other languages"
-  description = "C/C++, Java, COBOL, VB, LiveCode"
+  name = "Software engineering"
+  description = "C/C++, Java, COBOL, VB, LiveCode, Agile, Git, co-design, prototyping, requirements gathering"
 
 [[feature]]
   icon = "camera-retro"
