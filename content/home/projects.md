@@ -25,13 +25,13 @@ subtitle = ""
   #   name = "All"
   #   tag = "*"
   
-  [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
+  #[[content.filter_button]]
+  #   name = "Deep Learning"
+  #   tag = "Deep Learning"
   
-  [[content.filter_button]]
-     name = "Other"
-     tag = "Demo"
+  #[[content.filter_button]]
+  #   name = "Other"
+  #   tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -53,11 +53,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  gradient_start = "DeepSkyBlue"
+  gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
