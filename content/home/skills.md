@@ -67,5 +67,4 @@ subtitle = ""
   description = "Best research poster (2015) - Manchester University, Inaugural Healthcare Awards
 best student [adult branch] (2007) - Birmingham City
 University."
-  
 +++
