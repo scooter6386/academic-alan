@@ -55,7 +55,7 @@ subtitle = ""
   description = "Front end (HTML/CSS/JavaScript/Bootstap), Back end (Python Flask, Django)"
   
 [[feature]]
-  icon = "apple"
+  icon = "briefcase-medical"
   icon_pack = "fas"
   name = "Medical"
   description = "Nursing science, ECG interpretation, interoperability, cardiac angiography, author of 2 medical textbooks"
@@ -64,7 +64,5 @@ subtitle = ""
   icon = "trophy"
   icon_pack = "fas"
   name = "Awards"
-  description = "Best research poster (2015) - Manchester University, Inaugural Healthcare Awards
-best student adult branch (2007) - Birmingham City
-University."
+  description = "Best research poster (2015) - Manchester University, Inaugural Healthcare Awards best student adult branch (2007) - Birmingham City University."
 +++
