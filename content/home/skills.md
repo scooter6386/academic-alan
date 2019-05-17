@@ -55,7 +55,7 @@ subtitle = ""
   description = "Front end (HTML/CSS/JavaScript/Bootstap), Back end (Python Flask, Django)"
   
 [[feature]]
-  icon = "briefcase-medical"
+  icon = "apple"
   icon_pack = "fas"
   name = "Medical"
   description = "Nursing science, ECG interpretation, interoperability, cardiac angiography, author of 2 medical textbooks"
