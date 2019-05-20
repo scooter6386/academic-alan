@@ -52,7 +52,7 @@ subtitle = ""
   icon = "globe-americas"
   icon_pack = "fas"
   name = "Web development"
-  description = "Front end (HTML/CSS/JavaScript/Bootstap), Back end (Python Flask, Django)"
+  description = "Front end (HTML/CSS/JavaScript/Bootstrap), Back end (Python Flask, Django)"
   
 [[feature]]
   icon = "briefcase-medical"
@@ -64,5 +64,5 @@ subtitle = ""
   icon = "trophy"
   icon_pack = "fas"
   name = "Awards"
-  description = "Best research poster (2015) - Manchester University, Inaugural Healthcare Awards best student adult branch (2007) - Birmingham City University."
+  description = "Best research poster (2015) - Manchester University. Inaugural Healthcare Awards best student adult branch (2007) - Birmingham City University."
 +++
