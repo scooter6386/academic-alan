@@ -45,16 +45,56 @@ date_format = "Jan 2006"
   date_start = "2017-06-01"
   date_end = ""
   description = "Co-designed a prototype mobile app with COPD patients to collect self-reported effect of symptoms with experience sampling."
+
+[[item]]
+  organization = "Faculty of Clinical Informatics (FCI) and the University of Manchester"
+  organization_url = ""
+  title = "Development of a core competency framework for Clinical Informatics"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-11-01"
+  date_end = "2020-05-31"
+  description = "Delivery of a Macine Learning workshop with hands on practice via Jupyter notebooks."
   
+[[item]]
+  organization = "Health Education England, National School of Healthcare Science and the University of Manchester"
+  organization_url = ""
+  title = "Topol Programme for Digital Fellowships in Healthcare Machine Learning workshop"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-03-18"
+  date_end = "2020-03-18"
+  description = "Delivery of a Macine Learning workshop with hands on practice via Jupyter notebooks."
+
+[[item]]
+  organization = "Manchester University NHS FT and Blackburn with Darwen Council"
+  organization_url = ""
+  title = "Genetic Mobile App (working title)"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-06-20"
+  date_end = "2020-12-31"
+  description = "Development of a Genetic Counselling App to raise genetic literacy in South-Asian communities"
+
+[[item]]
+  organization = "Nightingale Centre (Wythenshawe Hospital) and the University of Manchester"
+  organization_url = ""
+  title = "Healthy Lifestyles App"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-03-01"
+  date_end = "2020-12-31"
+  description = "A co-designed app to promote healthy living for women aged 18-35 with a higher risk of breast cancer."
+
 [[item]]
   organization = "Springer"
   organization_url = ""
-  title = "Developing mHealth Interventions: A guide for Researchers, Informaticians and Physicians"
+  title = "Developing Medical Apps and mHealth Interventions: A guide for Researchers, Physicians and Informaticians"
   url = ""
   certificate_url = ""
   date_start = "2019-02-01"
   date_end = "2020-01-31"
-  description = "A book detailing the process of creating and developing and evaluating an mHealth application."
+  description = "A book detailing the process of creating and developing and evaluating medical apps and mHealth applications."
 
 [[item]]
   organization = "Data Science Institute"
