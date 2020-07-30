@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-11-01"
   date_end = "2020-05-31"
-  description = "Delivery of a Macine Learning workshop with hands on practice via Jupyter notebooks."
+  description = "Delivery of a core competency framework for clinical informaticians."
   
 [[item]]
   organization = "Health Education England, National School of Healthcare Science and the University of Manchester"
