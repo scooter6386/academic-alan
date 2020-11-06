@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer Health Data Science
+role: Senior Lecturer Health Data Science
 
 # Organizations/Affiliations
 organizations:
