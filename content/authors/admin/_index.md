@@ -32,6 +32,8 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Manchester
+  - course: PGCert in Higher Education
+    institution: University of Manchester
   - course: BSc (HONS) RN in Nursing Science
     institution: Birmingham City University 
   
