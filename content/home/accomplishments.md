@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Health Education England (HEE)"
+  organization_url = ""
+  title = "DART-Ed co-design of capability framework for AI & Digital Healthcare"
+  url = ""
+  date_start = "2021-01-01"
+  date_end = "2021-09-01"
+  description = "Academic partner to HEE involved in the co-design and construction of a capability framework around AI & Digital Healthcare."
+  
+[[item]]
   organization = "AstraZeneca"
   organization_url = ""
   title = "Biomarker visualisation for clinical trial decision making"
