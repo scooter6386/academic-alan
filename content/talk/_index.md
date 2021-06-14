@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Creating the ecology classic ‘Kite diagram’ in Python Using Python’s matplotlib library
 
 # View.
 #   1 = List
