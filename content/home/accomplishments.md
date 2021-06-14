@@ -23,9 +23,18 @@ date_format = "Jan 2006"
   organization_url = ""
   title = "DART-Ed co-design of capability framework for AI & Digital Healthcare"
   url = ""
-  date_start = "2021-01-01"
+  date_start = "2021-03-01"
   date_end = "2021-09-01"
   description = "Academic partner to HEE involved in the co-design and construction of a capability framework around AI & Digital Healthcare."
+  
+[[item]]
+  organization = "University of Manchester, Health Education England (HEE) and the  National School of Healthcare Science"
+  organization_url = ""
+  title = "PGCert Clinical Data Science"
+  url = ""
+  date_start = "2021-01-01"
+  date_end = "2023-01-01"
+  description = "Programme director. Involved in co-design of a educational programme to train the healthcare workforce in data science"
   
 [[item]]
   organization = "AstraZeneca"
