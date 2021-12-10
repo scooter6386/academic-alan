@@ -73,7 +73,8 @@ user_groups:
 I have a background in Computer Science and Nursing and have worked previously in interventional cardiology and subsequently authored several medical text books on electrocardiogram (ECG) interpretation. I also have experience working as a software engineer/app developer in industry. I completed my PhD in Computer Science using eye-tracking and computational techniques to examine how practitioners interpret ECGs. Since then I have worked at the University of Manchester as a Data Scientist/Research Software Engineer before becoming a senior lecturer of Health Data Science in the Faculty of Biology Medicine and Health. My research interests include the application of technology to healthcare, how patients understand medical information and health related mobile application interventions.
 
 - British Computer Society (BCS) Professional member (MBCS)<br />
+- Senior Fellow Advance HE (SFHEA)
 - Associate member Faculty of Clinical Informatics (FCI)
 - Fellow of the Royal Statistical Society<br />
 - Committee member University Research Ethics Committee (UREC)
-- Data Science Fellow AstraZeneca
+- Former Data Science Fellow AstraZeneca
